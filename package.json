@@ -1,0 +1,35 @@
+{
+  "name": "quizcaps",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android:dev": "react-native run-android",
+    "android:prod": "react-native run-android --variant=release",
+    "ios:dev": "react-native run-ios",
+    "ios:prod": "react-native run-ios --configuration Release",
+    "ios:dev:device": "react-native run-ios --device \"Palash's iPhone\"",
+    "ios:prod:device": "react-native run-ios --device \"Palash's iPhone\" --configuration Release",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint .",
+    "pods": "cd ios && pod install && cd .."
+  },
+  "dependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-sound": "^0.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/runtime": "^7.6.0",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.4.0",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

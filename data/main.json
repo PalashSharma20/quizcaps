@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Poland",
+    "answers": [
+      "KrakÃ³w",
+      "Łódź",
+      "Wrocław",
+      "Warsaw"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Spain",
+    "answers": [
+      "Madrid",
+      "Barcelona",
+      "Valencia",
+      "Seville"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dominican Republic",
+    "answers": [
+      "Azua de Compostela",
+      "Santo Domingo",
+      "La Romana",
+      "Yamasá"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Liechtenstein",
+    "answers": [
+      "Planken",
+      "Gamprin",
+      "Ruggell",
+      "Vaduz"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Saudi Arabia",
+    "answers": [
+      "Riyadh",
+      "Jeddah",
+      "Mecca",
+      "Al-Ahsa"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "El Salvador",
+    "answers": [
+      "Cuscatancingo",
+      "Apopa",
+      "San Salvador",
+      "La Unión"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Djibouti",
+    "answers": [
+      "Obock",
+      "Tadjourah",
+      "Djibouti",
+      "Ali Sabieh"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mexico",
+    "answers": [
+      "Puebla",
+      "Guadalajara",
+      "Ecatepec",
+      "Mexico City"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Uganda",
+    "answers": [
+      "Mbarara",
+      "Busia",
+      "Kampala",
+      "Fort Portal"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kazakhstan till 1997",
+    "answers": [
+      "Astana",
+      "Baikonur",
+      "Almaty",
+      "Karagandy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Guyana",
+    "answers": [
+      "Anna Regina",
+      "Corriverton",
+      "Georgetown",
+      "Lethem"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Moldova",
+    "answers": [
+      "Anenii Noi",
+      "Basarabeasca",
+      "Chișinău",
+      "Dnestrovsc"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brazil till 1961",
+    "answers": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Fortaleza"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mozambique",
+    "answers": [
+      "Nampula",
+      "Dondo",
+      "Maputo",
+      "Chinde"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Canada",
+    "answers": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Belize till 1970",
+    "answers": [
+      "Benque Viejo del Carmen",
+      "Belmopan",
+      "Dangriga",
+      "Belize City"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Japan",
+    "answers": [
+      "Anjō",
+      "Hekinan",
+      "Okazaki",
+      "Tokyo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Benin",
+    "answers": [
+      "Nikki",
+      "Savalou",
+      "Ganvie",
+      "Porto-Novo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tuvalu",
+    "answers": [
+      "Kulia",
+      "Funafuti",
+      "Tokelau",
+      "Savave"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "East Timor",
+    "answers": [
+      "Manatuto",
+      "Dili",
+      "Lolotoe",
+      "Ermera"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "São Tomé and Príncipe",
+    "answers": [
+      "Guadalupe",
+      "Pantufo",
+      "Neves",
+      "São Tomé"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Ukraine",
+    "answers": [
+      "Kharkiv",
+      "Lviv",
+      "Kiev",
+      "Vinnytsia"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Malawi",
+    "answers": [
+      "Kasungu",
+      "Embangweni",
+      "Lilongwe",
+      "Mzuzu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Iraq",
+    "answers": [
+      "Fallujah",
+      "Baghdad",
+      "Shamia",
+      "Basra"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ghana",
+    "answers": [
+      "Kumasi",
+      "Accra",
+      "Tamale",
+      "Sekondi-Takoradi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Burma",
+    "answers": [
+      "Mandalay",
+      "Rangoon",
+      "Naypyidaw",
+      "Bago"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Morocco",
+    "answers": [
+      "Casablanca",
+      "Rabat",
+      "Tangier",
+      "Salé"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Lebanon",
+    "answers": [
+      "Zahlé",
+      "Sidon",
+      "Tripoli",
+      "Beirut"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Oman",
+    "answers": [
+      "Izki",
+      "Muscat",
+      "As Sib",
+      "Shinas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kosovo",
+    "answers": [
+      "Gnjilane",
+      "Vučitrn",
+      "Priština",
+      "Đakovica"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Senegal",
+    "answers": [
+      "Dakar",
+      "Touba",
+      "Rufisque",
+      "Kaolack"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Slovakia",
+    "answers": [
+      "Košice",
+      "Prešov",
+      "Bratislava",
+      "Žilina"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Germany",
+    "answers": [
+      "Aachen",
+      "Ebeleben",
+      "Berlin",
+      "Dahn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Botswana",
+    "answers": [
+      "Gaborone",
+      "Francistown",
+      "Molepolole",
+      "Serowe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Andorra",
+    "answers": [
+      "Canillo",
+      "Meritxell",
+      "La Margineda",
+      "Andorra la Vella"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "St. Vincent & the Grenadines",
+    "answers": [
+      "Kingstown",
+      "Gomea",
+      "Carriere Village",
+      "Bridgetown"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Turkmenistan",
+    "answers": [
+      "Mary",
+      "Daşoguz",
+      "Türkmenabat",
+      "Ashgabat"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brunei",
+    "answers": [
+      "Kuala Belait",
+      "Bandar Seri Begawan",
+      "Tutong",
+      "Seria"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Vanuatu",
+    "answers": [
+      "Port Olry",
+      "Whitesands",
+      "Port Vila",
+      "Ipikil"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Norway",
+    "answers": [
+      "Vadsø",
+      "Oslo",
+      "Flekkefjord",
+      "Notodden"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mongolia",
+    "answers": [
+      "Choibalsan",
+      "Erdenet",
+      "Ulan Bator",
+      "Darkhan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Turkey",
+    "answers": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Bursa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Seychelles",
+    "answers": [
+      "Grand Anse Mahe",
+      "Victoria",
+      "Takamaka",
+      "Anse Boileau"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Uzbekistan",
+    "answers": [
+      "Chirchiq",
+      "Tashkent",
+      "Bekobod",
+      "Margilan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Eritrea",
+    "answers": [
+      "Mendefera",
+      "Teseney",
+      "Asmara",
+      "Keren"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "St. Lucia",
+    "answers": [
+      "Monchy",
+      "Rodney Bay",
+      "Au Tabor",
+      "Castries"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Haiti",
+    "answers": [
+      "Bel Air",
+      "Port-au-Prince",
+      "Fond La Grange",
+      "Saint-Raphaël"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Central African Republic",
+    "answers": [
+      "Bangui",
+      "Alindao",
+      "Mbaïki",
+      "Sibut"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Argentina",
+    "answers": [
+      "Buenos Aires",
+      "Córdoba",
+      "Rosario",
+      "Mendoza"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solomon Islands",
+    "answers": [
+      "Buala",
+      "Kamaosi",
+      "Munda",
+      "Honiara"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tajikistan",
+    "answers": [
+      "Qurghonteppa",
+      "Dushanbe",
+      "Khujand",
+      "Tursunzoda"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Macedonia",
+    "answers": [
+      "Valandovo",
+      "Skopje",
+      "Tetovo",
+      "Prilep"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Serbia",
+    "answers": [
+      "Čačak",
+      "Belgrade",
+      "Kraljevo",
+      "Novi Sad"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Egypt",
+    "answers": [
+      "Suez",
+      "Giza",
+      "Alexandria",
+      "Cairo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Curaçao",
+    "answers": [
+      "Willemstad",
+      "Sint Michiel Liber",
+      "Otrobanda",
+      "Newport"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Uruguay",
+    "answers": [
+      "Las Piedras",
+      "Paysandão",
+      "Salto",
+      "Montevideo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mauritania",
+    "answers": [
+      "Rosso",
+      "Zouérat",
+      "Kiffa",
+      "Nouakchott"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Singapore",
+    "answers": [
+      "Istana",
+      "Singapore",
+      "Bedok",
+      "Tanjong Rhu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "South Sudan",
+    "answers": [
+      "Juba",
+      "Kuajok",
+      "Akobo",
+      "Pibor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Pakistan",
+    "answers": [
+      "Peshawar",
+      "Kohat",
+      "Islamabad",
+      "Nowshera"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mali",
+    "answers": [
+      "Gao",
+      "Bamako",
+      "Sikasso",
+      "Mopti"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Estonia",
+    "answers": [
+      "Viljandi",
+      "Narva",
+      "Tartu",
+      "Tallinn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Portugal",
+    "answers": [
+      "Miranda do Douro",
+      "Tarouca",
+      "Vila Nova de Foz Côa",
+      "Lisbon"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Dominica",
+    "answers": [
+      "Roseau",
+      "Barroui",
+      "Wesley",
+      "Saint Joseph"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Zambia",
+    "answers": [
+      "Kabwe",
+      "Kitwe",
+      "Ndola",
+      "Lusaka"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sudan",
+    "answers": [
+      "Nyala",
+      "Khartoum",
+      "Ubayyid",
+      "Kassala"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Antigua & Barbuda",
+    "answers": [
+      "Saint John's",
+      "All Saints",
+      "Liberta",
+      "Potter's Village"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Greece",
+    "answers": [
+      "Heraklion",
+      "Patras",
+      "Athens",
+      "Thessaloniki"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Maldives",
+    "answers": [
+      "Kudahuvadhoo",
+      "Malé",
+      "Nolhivaranfaru",
+      "Addu City"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Albania",
+    "answers": [
+      "Tirana",
+      "Durrës",
+      "Vlorë",
+      "Elbasan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cameroon",
+    "answers": [
+      "Guider",
+      "Dimako",
+      "Yaoundé",
+      "Foumban"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Australia",
+    "answers": [
+      "Sydney",
+      "Canberra",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Laos",
+    "answers": [
+      "Savannakhet",
+      "Luang Prabang",
+      "Vientiane",
+      "Pakse"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kenya",
+    "answers": [
+      "Nairobi",
+      "Kisumu",
+      "Mombasa",
+      "Eldoret"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Croatia",
+    "answers": [
+      "Split",
+      "Zagreb",
+      "Velika Gorica",
+      "Pula"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "St. Kitts & Nevis",
+    "answers": [
+      "Trinity Palmetto Point",
+      "Christ Church Nichola Town",
+      "Basseterre",
+      "Saint John Figtree"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Nicaragua",
+    "answers": [
+      "Managua",
+      "Chontales",
+      "Rivas",
+      "Boaco"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Slovenia",
+    "answers": [
+      "Ljubljana",
+      "Maribor",
+      "Celje",
+      "Kranj"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Niger",
+    "answers": [
+      "Niamey",
+      "Maïné-Soroa",
+      "Gouré",
+      "Kollo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Nauru",
+    "answers": [
+      "Yaren District",
+      "Bweteoaru",
+      "Marerawua",
+      "Aribweabwe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Peru",
+    "answers": [
+      "Arequipa",
+      "Lima",
+      "Trujillo",
+      "Chiclayo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Romania",
+    "answers": [
+      "Cluj-Napoca",
+      "Timișoara",
+      "Bucharest",
+      "Iași"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kuwait",
+    "answers": [
+      "Dasmān",
+      "Kuwait City",
+      "Sharq",
+      "Salhiya"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "San Marino",
+    "answers": [
+      "Fiorentino",
+      "Borgo Maggiore",
+      "Serravalle",
+      "San Marino"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Nigeria",
+    "answers": [
+      "Lokoja",
+      "Abuja",
+      "Gombe",
+      "Awka"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Philippines",
+    "answers": [
+      "Canlaon",
+      "Tandag",
+      "Vigan",
+      "Manila"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Ecuador",
+    "answers": [
+      "Guayaquil",
+      "Quito",
+      "Cuenca",
+      "Santo Domingo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Fiji",
+    "answers": [
+      "Nadi",
+      "Rakiraki",
+      "Lautoka",
+      "Suva"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Netherlands",
+    "answers": [
+      "Lisse",
+      "Haarlem",
+      "Delft",
+      "Amsterdam"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Guinea-Bissau",
+    "answers": [
+      "Bissorã",
+      "Gabú",
+      "Bafatá",
+      "Bissau"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Angola",
+    "answers": [
+      "Caungula",
+      "Damba",
+      "Luanda",
+      "Muchinda"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Bhutan",
+    "answers": [
+      "Thimphu",
+      "Samdrup Jongkhar",
+      "Phuntsholing",
+      "Geylegphug"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Swaziland",
+    "answers": [
+      "Hluti",
+      "Big Bend",
+      "Mbabane",
+      "Lobamba"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "New Zealand",
+    "answers": [
+      "Auckland",
+      "Christchurch",
+      "Wellington",
+      "Hamilton"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thailand",
+    "answers": [
+      "Chiang Mai",
+      "Hat Yai",
+      "Bangkok",
+      "Phuket"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tanzania",
+    "answers": [
+      "Arusha",
+      "Dar es Salaam",
+      "Mwanza",
+      "Dodoma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Palau",
+    "answers": [
+      "Choll",
+      "Ngerulmud",
+      "Ollei",
+      "Bkurrengel"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Namibia",
+    "answers": [
+      "Oshakati",
+      "Walvis Bay",
+      "Rundu",
+      "Windhoek"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Afghanistan",
+    "answers": [
+      "Ghazni",
+      "Kabul",
+      "Herat",
+      "Sheberghan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "North Korea",
+    "answers": [
+      "Pyongyang",
+      "Rason",
+      "Anju",
+      "Hoeryong"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Switzerland",
+    "answers": [
+      "Geneva",
+      "Thun",
+      "Zurich",
+      "Bern"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Russia till 1918",
+    "answers": [
+      "Yekaterinburg",
+      "Moscow",
+      "Novosibirsk",
+      "St. Petersburg"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Russia",
+    "answers": [
+      "Yekaterinburg",
+      "Moscow",
+      "Novosibirsk",
+      "St. Petersburg"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Algeria",
+    "answers": [
+      "Oran",
+      "Algiers",
+      "Constantine",
+      "Blida"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Yemen",
+    "answers": [
+      "Ta'izz",
+      "Sana'a",
+      "Al Hudaydah",
+      "Ibb"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tunisia",
+    "answers": [
+      "Sfax",
+      "Tunis",
+      "Sousse",
+      "Kairouan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Liberia",
+    "answers": [
+      "River Cess",
+      "Kakata",
+      "Monrovia",
+      "Buutuo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "the UK",
+    "answers": [
+      "London",
+      "Ripon",
+      "Wells",
+      "Hereford"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Israel",
+    "answers": [
+      "Beitar Illit",
+      "Rahat",
+      "Jerusalem",
+      "Qalansawe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cote d'Ivoire till 1983",
+    "answers": [
+      "Yamoussoukro",
+      "Abidjan",
+      "Adzopé",
+      "Dabou"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Guatemala",
+    "answers": [
+      "Guatemala City",
+      "Mixco",
+      "Villa Nueva",
+      "Quetzaltenango"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Jordan",
+    "answers": [
+      "Zarqa",
+      "Irbid",
+      "Russeifa",
+      "Amman"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Zimbabwe",
+    "answers": [
+      "Harare",
+      "Bulawayo",
+      "Chitungwiza",
+      "Mutare"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bahrain",
+    "answers": [
+      "Manama",
+      "Riffa",
+      "Muharraq",
+      "Hamad Town"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Suriname",
+    "answers": [
+      "Paramaribo",
+      "Albina",
+      "Goddo",
+      "Onverwacht"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kiribati",
+    "answers": [
+      "South Tarawa",
+      "Ijaki",
+      "Roreti",
+      "Makin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Costa Rica",
+    "answers": [
+      "Alajuela",
+      "Curridabat",
+      "Tirrases",
+      "San José"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Indonesia",
+    "answers": [
+      "Bali",
+      "Java",
+      "Kalimantan",
+      "Jakarta"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aruba",
+    "answers": [
+      "Calabas",
+      "Ponton",
+      "Wayaca",
+      "Oranjestad"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Bosnia & Herzegovina",
+    "answers": [
+      "Banja Luka",
+      "Tuzla",
+      "Sarajevo",
+      "Zenica"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Montenegro",
+    "answers": [
+      "Podgorica",
+      "Nikšić",
+      "Pljevlja",
+      "Bijelo Polje"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Armenia",
+    "answers": [
+      "Vanadzor",
+      "Vagharshapat",
+      "Yerevan",
+      "Gyumri"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kazakhstan",
+    "answers": [
+      "Astana",
+      "Karagandy",
+      "Baikonur",
+      "Almaty"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Czech Republic",
+    "answers": [
+      "Prague",
+      "Brno",
+      "Ostrava",
+      "Plzeň"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Denmark",
+    "answers": [
+      "Aarhus",
+      "Copenhagen",
+      "Odense",
+      "Aalborg"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tonga",
+    "answers": [
+      "Nuku'alofa",
+      "Luahoko",
+      "Fakahiku",
+      "Luanamo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comoros",
+    "answers": [
+      "Mutsamudu ",
+      "Fomboni",
+      "Moroni",
+      "Mbéni"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Rwanda",
+    "answers": [
+      "Gasarenda",
+      "Nyanza",
+      "Kigali",
+      "Muhanga"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trinidad & Tobago",
+    "answers": [
+      "Caigual",
+      "Port of Spain",
+      "Jerningham Junction",
+      "Poole"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tanzania till 1970",
+    "answers": [
+      "Dar es Salaam",
+      "Arusha",
+      "Mwanza",
+      "Dodoma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Hungary",
+    "answers": [
+      "Debrecen",
+      "Miskolc",
+      "Budapest",
+      "Szeged"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Belize",
+    "answers": [
+      "Belize City",
+      "Benque Viejo del Carmen",
+      "Belmopan",
+      "Dangriga"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Iceland",
+    "answers": [
+      "Reykjavik",
+      "Kópavogur",
+      "Akureyri",
+      "Hafnarfjörður"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Nepal",
+    "answers": [
+      "Pokhara",
+      "Lalitpur",
+      "Bharatpur",
+      "Kathmandu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sri Lanka",
+    "answers": [
+      "Kandy",
+      "Moratuwa",
+      "Dehiwala-Mount Lavinia",
+      "Sri Jayawardenepura Kotte"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Malaysia",
+    "answers": [
+      "Kuala Lumpur",
+      "Kuala Terengganu",
+      "Miri",
+      "Penang"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Honduras",
+    "answers": [
+      "La Ceiba",
+      "Choloma",
+      "Tegucigalpa",
+      "San Pedro Sula"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Paraguay",
+    "answers": [
+      "Yaguarón",
+      "Lambaré",
+      "José Fasardi",
+      "Asunción"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cape Verde",
+    "answers": [
+      "São Filipe",
+      "Assomada",
+      "Mindelo",
+      "Praia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Panama",
+    "answers": [
+      "San Miguelito",
+      "Panama City",
+      "Tocumen",
+      "David"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Nigeria till 1991",
+    "answers": [
+      "Abuja",
+      "Lagos",
+      "Gombe",
+      "Awka"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Congo (Dem. Rep.)",
+    "answers": [
+      "Kinshasa",
+      "Gwane",
+      "Shinkolobwe",
+      "Zaba"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Grenada",
+    "answers": [
+      "Duquesne",
+      "Willis",
+      "Upper La Tante",
+      "St. George's"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "India",
+    "answers": [
+      "Bangalore",
+      "Bhopal",
+      "New Delhi",
+      "Mumbai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Belgium",
+    "answers": [
+      "Ghent",
+      "Antwerp",
+      "Liège",
+      "Brussels (city)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Iran",
+    "answers": [
+      "Tehran",
+      "Hashtgerd",
+      "Jask",
+      "Astara"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ethiopia",
+    "answers": [
+      "Maychew",
+      "Addis Ababa",
+      "Ghimbi",
+      "Werder"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Burma till 2005",
+    "answers": [
+      "Mandalay",
+      "Naypyidaw",
+      "Rangoon",
+      "Bago"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brazil",
+    "answers": [
+      "São Paulo",
+      "Rio de Janeiro",
+      "Brasília",
+      "Fortaleza"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UAE",
+    "answers": [
+      "Sharjah",
+      "Al Ain",
+      "Dubai",
+      "Abu Dhabi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Belarus",
+    "answers": [
+      "Maladzyechna",
+      "Minsk",
+      "Barysaw",
+      "Salihorsk"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Colombia",
+    "answers": [
+      "Bogotá",
+      "Medellín",
+      "Cali",
+      "Barranquilla"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Libya",
+    "answers": [
+      "Bayda",
+      "Misrata",
+      "Benghazi",
+      "Tripoli"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sweden",
+    "answers": [
+      "Stockholm",
+      "Arboga",
+      "Örnsköldsvik",
+      "Ystad"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mauritius",
+    "answers": [
+      "Port Louis",
+      "Bel Ombre",
+      "Curepipe",
+      "Vacoas-Phoenix"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Monaco",
+    "answers": [
+      "Monaco-Ville",
+      "La Condamine",
+      "Moneghetti",
+      "Monaco"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cuba",
+    "answers": [
+      "Holguín",
+      "Camagüey",
+      "Havana",
+      "Santiago de Cuba"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Venezuela",
+    "answers": [
+      "Isla Ratón",
+      "La Esmeralda",
+      "Caracas",
+      "Maroa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Bangladesh",
+    "answers": [
+      "Narayanganj",
+      "Chittagong",
+      "Sylhet",
+      "Dhaka"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qatar",
+    "answers": [
+      "Abu az Zuluf",
+      "Doha",
+      "Al `Arish",
+      "Al Ghanim"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gambia",
+    "answers": [
+      "Banjul",
+      "Kanilai",
+      "Nema Kunku",
+      "Tanji"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cyprus",
+    "answers": [
+      "Nicosia",
+      "Platres",
+      "Kelokedara",
+      "Akrotiri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Barbados",
+    "answers": [
+      "Jackmans",
+      "Bridgetown",
+      "Clermont",
+      "Green Hill"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Italy",
+    "answers": [
+      "Turin",
+      "Naples",
+      "Rome",
+      "Milan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Congo (Rep. of.)",
+    "answers": [
+      "Pointe-Noire",
+      "Dolisie",
+      "Nkayi",
+      "Brazzaville"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Ireland",
+    "answers": [
+      "Cork",
+      "Dublin",
+      "Waterford",
+      "Lisburn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Malta",
+    "answers": [
+      "Siġġiewi",
+      "Valletta",
+      "Ħaż-Żabbar",
+      "Żejtun"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Guinea",
+    "answers": [
+      "Boké",
+      "Kindia",
+      "Conakry",
+      "Nzérékoré"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Somalia",
+    "answers": [
+      "Ras Kamboni",
+      "Jariban",
+      "Mogadishu",
+      "Habo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Papua New Guinea",
+    "answers": [
+      "Pongani",
+      "Kwikila",
+      "Port Moresby",
+      "Manguna"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Latvia",
+    "answers": [
+      "Valmiera",
+      "Liepāja",
+      "Jēkabpils",
+      "Riga"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Greenland",
+    "answers": [
+      "Nuuk",
+      "Sisimiut",
+      "Ilulissat",
+      "Qaqortoq"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Lithuania",
+    "answers": [
+      "Vilnius",
+      "Kaunas",
+      "Šiauliai",
+      "Panevėžys"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Samoa",
+    "answers": [
+      "Leufisa",
+      "Apia",
+      "Malifa",
+      "Sogi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bulgaria",
+    "answers": [
+      "Varna",
+      "Burgas",
+      "Sofia",
+      "Plovdiv"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sierra Leone",
+    "answers": [
+      "Kenema",
+      "Makeni",
+      "Bo",
+      "Freetown"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Marshall Islands",
+    "answers": [
+      "Rairok",
+      "Ebeye",
+      "Majuro",
+      "Laura"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chile",
+    "answers": [
+      "Arica",
+      "Iquique",
+      "Pozo Almonte",
+      "Santiago"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Georgia",
+    "answers": [
+      "Kaspi",
+      "Gori",
+      "Tbilisi",
+      "Rustavi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Madagascar",
+    "answers": [
+      "Antananarivo",
+      "Befotaka",
+      "Maevatanana",
+      "Vohipeno"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Myanmar",
+    "answers": [
+      "Mandalay",
+      "Yagon",
+      "Naypyidaw",
+      "Bago"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Bolivia",
+    "answers": [
+      "La Paz",
+      "Sucre",
+      "El Alto",
+      "Tarija"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Azerbaijan",
+    "answers": [
+      "Ganja",
+      "Sumqayit",
+      "Baku",
+      "Mingachevir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Syria",
+    "answers": [
+      "Damascus",
+      "Quneitra",
+      "Fiq",
+      "Salkhad"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Finland",
+    "answers": [
+      "Nilsiä",
+      "Helsinki",
+      "Juankoski",
+      "Kaskinen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Burundi",
+    "answers": [
+      "Muyinga",
+      "Bujumbura",
+      "Gitega",
+      "Ngozi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Togo",
+    "answers": [
+      "Lomé",
+      "Sokodé",
+      "Kara",
+      "Palimé"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Vietnam",
+    "answers": [
+      "Hanoi",
+      "Hồ Chí Minh City",
+      "Hải Phòng",
+      "Cần Thơ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Chad",
+    "answers": [
+      "Am Timan",
+      "N'Djamena",
+      "Bongor",
+      "Moundou"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kyrgyzstan",
+    "answers": [
+      "Dostuk",
+      "Bishkek",
+      "Kemin",
+      "Isfana"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Equatorial Guinea",
+    "answers": [
+      "Malabo",
+      "Bata",
+      "Ebebiyín",
+      "Aconibe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Austria",
+    "answers": [
+      "Vienna",
+      "Graz",
+      "Linz",
+      "Salzburg"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gabon",
+    "answers": [
+      "Moanda",
+      "Port-Gentil",
+      "Bitam",
+      "Libreville"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Vatican City",
+    "answers": [
+      "Vatican City",
+      "No Capital",
+      "Rome",
+      "Lebonan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Burkina Faso",
+    "answers": [
+      "Ouagadougou",
+      "Boromo",
+      "Gaoua",
+      "Koupéla"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Micronesia (Fed. States)",
+    "answers": [
+      "Gachalaaw",
+      "Paata",
+      "Hala",
+      "Palikir"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cambodia",
+    "answers": [
+      "Siem Reap",
+      "Prey Veng",
+      "Battambang",
+      "Phnom Penh"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Lesotho",
+    "answers": [
+      "Teyateyaneng",
+      "Maseru",
+      "Mafeteng",
+      "Hlotse"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cote d'Ivoire",
+    "answers": [
+      "Port Bouet",
+      "Yamoussoukro",
+      "Adzopé",
+      "Dabou"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "South Korea",
+    "answers": [
+      "Gyeryong",
+      "Taebaek",
+      "Seoul",
+      "Samcheok"
+    ],
+    "answer": 2
+  }
+]
